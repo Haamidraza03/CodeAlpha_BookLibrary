@@ -68,7 +68,7 @@ function App() {
                 Copyright &#169; HRK Library 2024. All Right Reserved.
             </div>
             <div>
-              Made with <i className="bi bi-heart-fill"></i> by <a href="https://hrk03.vercel.app" target='_blank' rel="noreferrer" className="text-white" style={{textDecoration: "none"}}>Haamid Raza Kazi</a>.
+              Made by <a href="https://hrk03.vercel.app" target='_blank' rel="noreferrer" className="text-white" style={{textDecoration: "none"}}>Haamid Raza Kazi</a>.
             </div>
         </footer>
       </div>
